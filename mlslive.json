@@ -18,5 +18,11 @@
   {
     "link":"BT Sport 1 HD",
     "livelink":"http://d19iphtv9h35kt.cloudfront.net/stream/NDAxMg==/1080p.m3u8"
+  },
+  {
+    "link":"Bein Sport 1 (SD)",
+    "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/nFuDHhvKoIX3jF03HGFukeMxZgu0mRgNEbmZHNapgHT3e9ODuZ1lqLZFcxFNQnMlJWNKmRSkGMo6qkGK9MOPCg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
   }
+  
+  
 ]
