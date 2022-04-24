@@ -14,18 +14,6 @@
 
 
 
-  },
-   {
-    "link":"BEIN Sport 1 HD",
-    "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/OItL912B6VCKbiCf6LAtp9VLtskcJuZm25kq0MYSwK2L5sQGw7y7C3YKiSvdQPqfVcIOzybzDmnCfEGIFuLsBQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-  },
-  {
-    "link":"SKY SPORT FHD",
-    "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/nFuDHhvKoIX3jF03HGFukeMxZgu0mRgNEbmZHNapgHT3e9ODuZ1lqLZFcxFNQnMlJWNKmRSkGMo6qkGK9MOPCg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-  },
-  {
-    "link":"DIEMA FHD",
-    "livelink":"https://hll.hnzzdf.com.cn/live/H173944.m3u8?txSecret=8c02ce44d33ffa3d6f16060bddf0878d&txTime=6265478B&_s=stream"
   }
   
 ]
