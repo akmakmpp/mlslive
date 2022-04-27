@@ -24,6 +24,10 @@
     "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Zg6ECmP3lXgea1Tk6m353jJNEqdE80051C_nDS7qjWtq20uNmOf1Bin_4xJh4g0Qud71I537QbKxnyc7fDUong/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
   },
   {
+    "link":"CANAL +(HD)",
+    "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/pFTPzXohjr-3bQOFNkxZv6M9W43qlLZA4Foj_k4Qm6ui9kfNG3KQJ36DkbkoKDd-_VjSmLJff0FtktV2m0Id3g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+  },
+  {
     "link":"BT SPORT(FHD 2)",
     "livelink":"http://d3pkil6wp1amn5.cloudfront.net/stream/NDA1Ng==/1080p.m3u8"
   },
