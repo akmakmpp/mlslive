@@ -48,6 +48,10 @@
     "livelink":"http://xtmm.live:8080/live/777222/777222/68.m3u8"
   },
   {
+    "link":"CANAL+ 480(SD)",
+    "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/pFTPzXohjr-3bQOFNkxZv6M9W43qlLZA4Foj_k4Qm6ui9kfNG3KQJ36DkbkoKDd-_VjSmLJff0FtktV2m0Id3g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+  },
+  {
     "link":"VIETNUM(SD)",
     "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
   },
