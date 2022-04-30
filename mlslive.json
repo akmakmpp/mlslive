@@ -17,15 +17,7 @@
 
   },
   {
-    "link":"BEIN ENG(FHD)",
+    "link":"BEIN ENG(HD)",
     "livelink":"http://xtmm.live:8080/live/777222/777222/5354.m3u8"
-  },
-  {
-    "link":"BT SPORT 2(FHD)",
-    "livelink":"http://xtmm.live:8080/live/777222/777222/77.m3u8"
-  },
-  {
-    "link":"BEIN ARAB(FHD)",
-    "livelink":"http://xtmm.live:8080/live/777222/777222/68.m3u8"
   }
 ]
