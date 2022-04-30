@@ -8,18 +8,15 @@
     "lineupval":"http://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/Screenshot%202022-04-25%20093907.png",
     
  
-    "link":"BT SPORT(FHD)",
-    "livelink":"http://d3fux4819m73bb.cloudfront.net/stream/NDA4MQ==/1080p.m3u8"
+    "link":"LFC TV",
+    "livelink":"http://tvn.x10.bz/TvN_ID/master-3.m3u8"
 
 
 
 
 
   },
-   {
-    "link":"BT SPORT (HD)",
-    "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-  },
+
    {
     "link":"SKY 1 (FHD)",
     "livelink":"https://alplay.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1650270470-0-0-8fccdc7f7bc8c0794d340d1e16371658"
@@ -30,10 +27,6 @@
     "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/W-5Uemg8ez2M3cQyydRQiX-uGjKpuvsS90ZwBUmUzw1iRwrEup93UE4FoknaT6k6fdKP1mk-zFskxOxnf4yq_g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
   },
    
-  {
-    "link":"VIETNUM (SD)",
-    "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-  },
    {
     "link":"480 (SD)",
     "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
