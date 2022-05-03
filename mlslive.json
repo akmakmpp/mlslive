@@ -15,17 +15,5 @@
 
 
 
-  },
-  {
-       "link":"SKY PREMIER(HD)",
-    "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/btd6So_jbXwOkZdQ8imCXDwFo-enV43dtqzRNoyuNo8WkvX5vtOV1LNt4KlOlwpKqykhvRw7PE-SjcYi0sSQ3g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-  },
-  {
-    "link":"BEIN 1 ENG(HD)",
-    "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/57pG3fpPJT-5hR4X_kQOoRyDK527sPLflXVnkypKvekoR-mIeXCm4sbPuuRTZ1c3w01UGokw1Qae188n7xeglg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-  },
-  {
-       "link":"Super Sport",
-    "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UH8dOHFRg-Cz28YpdImn0fHG8HwjbkNdpSgnD7025Gi86hfaqRym6RoA1F4yJF0-IrHD847GglT3f21E_2XYJg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
   }
 ]
