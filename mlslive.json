@@ -32,6 +32,11 @@
     "link":"BEIN ARAB(HD)",
     "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
   },
+  {
+    
+    "link":"Canal +(HD)",
+    "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/vsc7J-go-RnlR88k81hOxBdVLPXERhwiitUu1TyA-Pt4Jz_cjK5Ksh5AQ2tfrPQdJrVwHJsi0t4-TtlmsM0t5g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+  },
     {
     
     "link":"480(SD)",
