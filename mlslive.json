@@ -24,6 +24,11 @@
      "link":"SKY PREMIER(HD)",
     "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/9S9axFXJDRFTMg9WTxMqYICI6JQEBkxtwEzC3z2v2ly_BmDDTe3mRp9bpngRIlplhu-RqnFA05NAHd0lT4xIsQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
   },
+  
+  {
+     "link":"SKY MAIN(HD)",
+    "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
+  },
    {
      "link":"BEIN ENG(HD)",
     "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/NKLeS-VHbgVzYkrHjDoDnKXk3YFrdBjg0OX21vlMHfSjop1KYWRbx9CeXCvdBZWVuiGK93ZSLSZRBlw7ahmEnw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
@@ -32,7 +37,7 @@
      "link":"BEIN ARAB(HD)",
     "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
   },
-  ,
+  
   {
      "link":"VIETNUM (SD)",
     "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
