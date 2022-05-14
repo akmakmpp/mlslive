@@ -7,13 +7,17 @@
     "lineup":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/Screenshot%202022-04-25%20093907.png",
     "lineupval":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/Screenshot%202022-04-25%20093907.png",
     
-  "link":"BEIN ARAB(HD)",
-    "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
+  "link":"ITV(FHD)",
+    "livelink":"http://d3j3l2afbtzbe1.cloudfront.net/stream/NDMwNA==/1080p.m3u8"
 
 
 
 
 
+  },
+  {
+     "link":"ITV(FHD)",
+    "livelink":"https://d2to042yynqvkt.cloudfront.net/hls/snw/chunks.m3u8"
   },
   {
      "link":"BEIN FRANCE(HD)",
