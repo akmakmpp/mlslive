@@ -14,6 +14,26 @@
 
 
 
+  },
+  {
+  "link":"SKY MAIN(FHD)",
+    "livelink":"http://d3jnelsf4if2o4.cloudfront.net/stream/NDMzOA==/1080p.m3u8"
+  },
+  {
+  "link":"SUPER SPORT(FHD)",
+    "livelink":"http://d923feg4nf2pf.cloudfront.net/stream/NDMzNw==/NDMzNw==.m3u8"
+  },
+  {
+  "link":"SPARK SPORT(FHD)",
+    "livelink":"http://d3jnelsf4if2o4.cloudfront.net/stream/NDMzNg==/1080p.m3u8"
+  },
+  {
+  "link":"SPORT 1(FHD)",
+    "livelink":"http://d1kt6wfprhz1g6.cloudfront.net/stream/NDMzNQ==/1080p.m3u8"
+  },
+  {
+  "link":"SPORT 2(FHD)",
+    "livelink":"http://d3iz604vo7m8r5.cloudfront.net/stream/NDMzNA==/NDMzNA==.m3u8"
   }
 
   
