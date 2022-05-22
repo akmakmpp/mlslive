@@ -25,6 +25,10 @@
     "livelink":"https://dgvfs46eqzbch.cloudfront.net/hls/liverpool/chunks.m3u8"
   },
   {
+    "link":"CHINA(HD)",
+    "livelink":"https://hls1.yuanzhi.org.cn/live/H443900.m3u8?txSecret=5639dce442652ed783d9ad57c9cbe315&txTime=628B7CE3&_s=stream"
+  },
+  {
     "link":"SKY PREMIER(HD)",
     "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/4LtECqzWbpC1kkOkfhQg-9vlMJzsmS5IRpt10MpU_vz4dV1WCQcCuPic0GuNIop0y6UfHQR3bEW6kdmdtuvfuA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
   },
