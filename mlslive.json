@@ -7,12 +7,32 @@
     "lineup":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/Screenshot%202022-04-25%20093907.png",
     "lineupval":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/Screenshot%202022-04-25%20093907.png",
     
- "link":"BEIN ARAB(HD)",
+ "link":"BT SPORT 1(FHD)",
+    "livelink":"http://xtmm.live:8080/live/000999/000999/76.m3u8"
+
+
+
+
+
+  },
+  {
+   "link":"BEIN ENG(FHD)",
+    "livelink":"http://xtmm.live:8080/live/000999/000999/5354.m3u8"
+  
+  },
+  {
+   "link":"BT SPORT 1(HD)",
+    "livelink":"http://xtmm.live:8080/live/000999/000999/860.m3u8"
+  
+  },
+  {
+   "link":"BEIN ENG(HD)",
+    "livelink":"http://xtmm.live:8080/live/000999/000999/62.m3u8"
+  
+  },
+  {
+   "link":"BEIN ARAB(HD)",
     "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
-
-
-
-
-
+  
   }
 ]
