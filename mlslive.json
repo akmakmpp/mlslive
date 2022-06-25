@@ -1,19 +1,18 @@
-[
-  {
+{
   "date":"LFC TV",
     "matchimg":"https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/21/thumb_20605_default_news_size_5.jpeg",
     "teams":"MLS APP",
     "time":"Liverpool TV",
     "lineup":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/Screenshot%202022-04-25%20093907.png",
     "lineupval":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/Screenshot%202022-04-25%20093907.png",
-    
-   "link":"LFC TV(HD)",
+  
+  
+  "live": [
+  {
+  "link":"LFC TV(HD)",
     "livelink":"http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8"
-
-
-
-
-
-  }
-
+}
 ]
+  
+  
+}
