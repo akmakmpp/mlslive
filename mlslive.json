@@ -10,7 +10,15 @@
   "live": [
   {
   "link":"PREMIER (FHD)",
-    "livelink":"https://live-ak.vimeocdn.com/exp=1657628712~acl=%2Fa132ccfb-4f94-4123-9425-920f1825a940%2F%2A~hmac=0783659c947808c3099c0b8e432576b6d197d91707cffff958985780b41cee0a/a132ccfb-4f94-4123-9425-920f1825a940/chunklist_b6256000.m3u8?max_segments=108"
+    "livelink":"https://live-ak.vimeocdn.com/exp=1657632773~acl=%2Fa132ccfb-4f94-4123-9425-920f1825a940%2F%2A~hmac=8d708e9fc529f274dbb9680a817d63deaf912f01685e119deaa96061dbeca249/a132ccfb-4f94-4123-9425-920f1825a940/chunklist_b6256000.m3u8?max_segments=10"
+},
+    {
+  "link":"PREMIER (FHD)",
+    "livelink":"https://livestream-2.socialstreaming.tv/live/62cd5e002a8404001d7d33f1/62cd5e002a8404001d7d33f1.m3u8"
+},
+    {
+  "link":"PREMIER (FHD)",
+    "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
 }
 ]
   
