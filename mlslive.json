@@ -1,20 +1,16 @@
 {
-  "date":"July 15",
-    "matchimg":"https://circle.myactivesg.com/hubfs/sfx1410.png",
+  "date":"July 21",
+    "matchimg":"https://api.sofascore.app/api/v1/event/10388873/share-image/16x9",
     "teams":"MLS APP",
-    "time":"7:05 PM",
+    "time":"11:45 PM",
     "lineup":"https://3photos6.files.wordpress.com/2022/07/293044623_2295916093888964_6002388887958750560_n.jpg",
-    "lineupval":"http://3photos6.files.wordpress.com/2022/07/293044623_2295916093888964_6002388887958750560_n.jpg",
+    "lineupval":"https://3photos6.files.wordpress.com/2022/07/293044623_2295916093888964_6002388887958750560_n.jpg",
   
   
   "live": [
   {
   "link":"VIETNUM (SD)",
     "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-},
-    {
-  "link":"VIETNUM (FHD)",
-    "livelink":"https://livestream.socialstreaming.tv/live/62d158719e83dd001d108b95/62d158719e83dd001d108b95.m3u8"
 }
 ]
   
